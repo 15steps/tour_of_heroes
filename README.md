@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# tour_of_heroes
+>>>>>>> 42d06d477776b7f60e6955e6daf67e029068df69
